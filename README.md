@@ -41,8 +41,8 @@ I’m eager to learn, quick to adapt, and excited about the opportunity to grow 
 | Project | Description | Tech |
 |--------|-------------|------|
 | [🏡 GrandmasHouse webpage]([https://hitikus.github.io/GrandmasHouse.github.io/](https://github.com/Hitikus/GrandmasHouse.github.io)) | Webpage made using html, CSS and javascript. Remade in React | frontend
-| [🔐 Reading and cloning RFID cards using Proxmark]() | A project demonstrating RFID card reading and cloning using Proxmark3 for ethical security research and hardware hacking.| 
-| [🧠 C# Basic Algorithm script](https://github.com/Hitikus/CSharpAlgorithmScript) | C#
+| [🔐 Reading and cloning RFID cards using Proxmark]() | A project demonstrating RFID card reading and cloning using Proxmark3 for ethical security research and hardware hacking.| Proxmark3 RDV4.01
+| [🧠 C# Basic Algorithm script](https://github.com/Hitikus/CSharpAlgorithmScript) | A curated collection of essential algorithms implemented in C#, covering sorting, searching, recursion, and more. Perfect for beginners, students, and anyone brushing up on their algorithmic thinking in C#. | C#
 | [⚙️ Web API ](https://github.com/YOURUSERNAME/backend-api-demo) | Simple WEB Api using c# for University. CRUD commands for Student accreditation - Request Access for repository| C#
 
 > 📌 Check out my pinned repos to see more of what I’ve been working on.
