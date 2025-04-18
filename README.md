@@ -40,10 +40,10 @@ I’m eager to learn, quick to adapt, and excited about the opportunity to grow 
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🕹️ 2D Platformer Game](https://github.com/YOURUSERNAME/2d-platformer) | Simple C# Unity game demonstrating physics & mechanics | C#, Unity |
-| [🔐 Cybersecurity Tool](https://github.com/YOURUSERNAME/network-scanner) | Network scanner to detect live hosts and ports | C++, Networking |
-| [🧠 AI Mini Project](https://github.com/YOURUSERNAME/simple-ai-agent) | An AI agent that learns from basic inputs | Python |
-| [⚙️ Web API ](https://github.com/YOURUSERNAME/backend-api-demo) | RESTful API with CRUD features and Postman testing | C++, REST, Postman |
+| [🏡 GrandmasHouse webpage](https://hitikus.github.io/GrandmasHouse.github.io/) | Webpage made using html, CSS and javascript. Remade in React |
+| [🔐 Reading and cloning RFID cards using Proxmark]() | A project demonstrating RFID card reading and cloning using Proxmark3 for ethical security research and hardware hacking.|
+| [🧠 C# Basic Algorithm script](https://github.com/Hitikus/CSharpAlgorithmScript) 
+| [⚙️ Web API ](https://github.com/YOURUSERNAME/backend-api-demo) | Simple WEB Api using c# for University. CRUD commands for Student accreditation - Request Access for repository|
 
 > 📌 Check out my pinned repos to see more of what I’ve been working on.
 
@@ -52,7 +52,7 @@ I’m eager to learn, quick to adapt, and excited about the opportunity to grow 
 ### 🛠️ Skills & Tools
 
 - 💻 Languages: C, C++, C#, Python  
-- ⚙️ Tools: Git, GitHub, Postman, Visual Studio,  React, mySQL, Arduino IDE, Swagger (Open API), Postman, MATLAB.  
+- ⚙️ Tools: Git, GitHub, Postman, Visual Studio,  React, mySQL, Arduino IDE, Swagger (Open API), MATLAB.  
 - 🔐 Interests: Cybersecurity, Networking, Game Dev  
 - 🧠 Learning: AI fundamentals, backend frameworks (e.g. .NET)
 
@@ -63,7 +63,7 @@ I’m eager to learn, quick to adapt, and excited about the opportunity to grow 
 ### 🎯 Currently Focusing On
 
 - Building AI & game development projects for my portfolio
-- Trying to programm in Unity program
+- Building projects with Unity and learning C# scripting
 - Improving backend development skills with C++ and Python  
 - Exploring internships and junior dev opportunities  
 - Collaborating on open-source when possible
