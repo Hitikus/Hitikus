@@ -8,10 +8,10 @@
 
 ---
 
-### 🧑‍💻 About Me
+<h2 align="center"> My CV </h2>
+<p align="center">https://github.com/Hitikus/CV/blob/main/TomislavBabac_CV.pdf</p>
 
-## CV
-[(https://github.com/Hitikus/CV/blob/main/TomislavBabac_CV.pdf)]
+### 🧑‍💻 About Me
 
 I'm currently completing my fifth year of studies at the University of Split – FESB.  
 Over the course of my education, I’ve developed a strong interest in:
