@@ -36,7 +36,7 @@ I’m eager to learn, quick to adapt, and excited about the opportunity to grow 
 ### 📬 Contact
 
 - **Email**: [tomislav.vd@gmail.com](mailto:tomislav.vd@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/tomislav-babac)  
 
 ---
 
