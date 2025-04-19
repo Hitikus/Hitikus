@@ -10,6 +10,9 @@
 
 ### 🧑‍💻 About Me
 
+## CV
+[(https://github.com/Hitikus/CV/blob/main/TomislavBabac_CV.pdf)]
+
 I'm currently completing my fifth year of studies at the University of Split – FESB.  
 Over the course of my education, I’ve developed a strong interest in:
 
@@ -17,6 +20,7 @@ Over the course of my education, I’ve developed a strong interest in:
 - 🔒 Cybersecurity  
 - 🎮 Game Development  
 - 🛠️ Backend Technologies
+- 🛠️ Software Development
 
 While I haven’t had a formal internship yet, I’ve worked on **several hands-on projects** that helped me build practical experience in:
 
@@ -51,7 +55,7 @@ I’m eager to learn, quick to adapt, and excited about the opportunity to grow 
 
 ### 🛠️ Skills & Tools
 
-- 💻 Languages: C, C++, C#, Python  
+- 💻 Languages: C, C++, C#, Python, Javascript, Verilog  
 - ⚙️ Tools: Git, GitHub, Postman, Visual Studio,  React, mySQL, Arduino IDE, Swagger (Open API), MATLAB.  
 - 🔐 Interests: Cybersecurity, Networking, Game Dev  
 - 🧠 Learning: AI fundamentals, backend frameworks (e.g. .NET)
